@@ -16,7 +16,7 @@ export default class App extends Component {
                         <Avatar
                             small
                             rounded
-                            source={{uri: "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg"}}
+                            source={{uri: ""https://images.scribblelive.com/2017/12/17/65590cfd-28a5-4b63-b50f-a6a029108217_500.jpg""}}
                             activeOpacity={0.7}
                           />
                   </View>   
@@ -68,16 +68,16 @@ export default class App extends Component {
                     <Avatar
                             small
                             rounded
-                            source={{uri: "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX.jpg"}}
+                            source={{uri: "https://i.pinimg.com/736x/05/26/c1/0526c188e86fe197ce4e8dcffce76e00--positive-uplifting-quotes-positive-sayings.jpg"}}
                             activeOpacity={0.7}
                       />
                   </View> 
-                  <View style={{paddingTop:10, paddingHorizontal:10, alignItems:'center'}}><Text>Barack Obama</Text></View>
+                  <View style={{paddingTop:10, paddingHorizontal:10, alignItems:'center'}}><Text>Chipcoffey</Text></View>
               </View>
 
               <View style={{justifyContent:'flex-start', elevation:2,paddingLeft:60}} >
-                    <Text style={{paddingTop:5, textAlignVertical: 'top' }}>Bet you did not know tis meant wiping out the country with nuclear warfare and starting afresh lmaoo </Text>
-                    <Image style={{paddingTop:20,height:150, width:300,resizeMode: 'contain'}} source={{uri: 'https://images-na.ssl-images-amazon.com/images/I/81vcb3hRCsL._UX691_.jpg'}}/>
+                    <Text style={{paddingTop:5, textAlignVertical: 'top' }}>Thought for the day: Don't worry about the people in your past. There's a reason they didn't make it to your future.</Text>
+                    <Image style={{paddingTop:20,height:150, width:300,resizeMode: 'contain'}} source={{uri: 'https://i.pinimg.com/736x/b6/7e/2b/b67e2b1d3af63153684303d5eebf106f--positive-mind-positive-vibes.jpg'}}/>
               </View>
              
           </View> 
@@ -89,16 +89,16 @@ export default class App extends Component {
                     <Avatar
                             small
                             rounded
-                            source={{uri: "https://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_400x400.jpg"}}
+                            source={{uri: "https://s-media-cache-ak0.pinimg.com/originals/de/3f/7f/de3f7fa53ab53b43f208bfb431a1902e.jpg"}}
                             activeOpacity={0.7}
                       />
                   </View> 
-                  <View style={{paddingTop:10, paddingHorizontal:10, alignItems:'center'}}><Text>Elon Musk</Text></View>
+                  <View style={{paddingTop:10, paddingHorizontal:10, alignItems:'center'}}><Text>David Livingstone</Text></View>
               </View>
 
               <View style={{justifyContent:'flex-start', elevation:2,paddingLeft:60}} >
-                    <Text style={{paddingTop:5, textAlignVertical: 'top' }}> 0-60 in 1.9  </Text>
-                    <Image style={{zIndex:-1,position:'relative', paddingTop:20,height:150, width:300,resizeMode: 'contain'}} source={{uri: 'https://i.kinja-img.com/gawker-media/image/upload/s--h-DkGYWy--/c_scale,fl_progressive,q_80,w_800/raf6cpy8qocflnpjsa12.jpg'}}/>
+                    <Text style={{paddingTop:5, textAlignVertical: 'top' }}> “If a commission by an earthly king is considered an honor, how can a commission by a Heavenly King be considered a sacrifice?”  </Text>
+                    <Image style={{zIndex:-1,position:'relative', paddingTop:20,height:150, width:300,resizeMode: 'contain'}} source={{uri: 'http://www.christianitytoday.com/images/67405.jpg?w=700'}}/>
               </View>
           </View> 
 
